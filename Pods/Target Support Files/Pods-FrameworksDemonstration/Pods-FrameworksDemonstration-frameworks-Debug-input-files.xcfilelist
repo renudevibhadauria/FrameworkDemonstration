@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-FrameworksDemonstration/Pods-FrameworksDemonstration-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PKFloatingButton/PKFloatingButton.framework
+${BUILT_PRODUCTS_DIR}/SideMenuSwift/SideMenuSwift.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework

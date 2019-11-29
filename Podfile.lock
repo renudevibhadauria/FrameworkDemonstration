@@ -1,0 +1,24 @@
+PODS:
+  - iOSDropDown (0.3.4)
+  - PKFloatingButton (0.1.1)
+  - SideMenuSwift (2.0.3)
+
+DEPENDENCIES:
+  - iOSDropDown
+  - PKFloatingButton
+  - SideMenuSwift
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - PKFloatingButton
+    - SideMenuSwift
+
+SPEC CHECKSUMS:
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  PKFloatingButton: a26d41d1efa977c7fe8d188b5389aa64fc7835cf
+  SideMenuSwift: 5c2b1496544ce3f1f08f4dddf4810eaac49f543d
+
+PODFILE CHECKSUM: 38c8cad9e547ed534016994921f189e206420a3b
+
+COCOAPODS: 1.8.4

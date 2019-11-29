@@ -1,0 +1,6 @@
+framework module PKFloatingButton {
+  umbrella header "PKFloatingButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
